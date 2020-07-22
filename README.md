@@ -1,2 +1,19 @@
-# InviteTracker_DiscordBot
-InviteTracker - A bot that can write in 2 languages | Bot Library: Discord.JS
+### This file will be in Russian Language, if you speak English - translate text to Russian Language!
+InviteTracker - Дискорд бот, который умеет писать на 2 языках: Русском и Английском!
+Среди особенностей:
+1. Бот уведомляет в канал, где было создано приглашение и в канал, который был занесён в базу.
+2. 2 языка для общения.
+Количество команд у бота: **9**!
+# Исходный код
+Исходный код появится здесь, если после изменения Discord API бот умрёт.
+На данный момент бот работает и живёт.
+# Связь с разработчиком
+Связаться с разработчиком можно двумя способами:
+1. ВК - https://vk.com/id420307436
+2. Дискорд - bad boy#1036
+# Саппорт сервер
+https://discord.gg/Ddc8NVw
+
+<a href="https://top.gg/bot/717449631067406367" >
+  <img src="https://top.gg/api/widget/717449631067406367.svg" alt="Mickey" />
+</a>
